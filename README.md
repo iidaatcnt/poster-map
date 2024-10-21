@@ -1,6 +1,6 @@
 Forked from [https://github.com/takahiroanno2024/poster-map/]. Adapted for Shiroi City, Chiba Prefecture. Election poster placement support web application with updated map data.
 
-マップデータを東京都から千葉県白井市に変更して動作するようにカスタイマイズ中です
+マップデータを東京都から任意の市選挙用に変更して動作するようにカスタイマイズ中です
 
 このforkすることに問題がありましたらご連絡ください。
 
